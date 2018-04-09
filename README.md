@@ -1,7 +1,6 @@
 # IPython in depth tutorial
 
 Try it out on Binder! [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Jammnie/mnist_test.git/master)
-.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/Jammnie/mnist_test/master
 
 
 In its current form, this tutorial is meant to be executed with Jupyter notebook
